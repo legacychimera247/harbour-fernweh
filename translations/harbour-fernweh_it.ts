@@ -60,7 +60,7 @@
     <name>Album</name>
     <message>
         <source>Copy URL to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type=Album></translation>
     </message>
     <message>
         <source>%1 photos</source>
